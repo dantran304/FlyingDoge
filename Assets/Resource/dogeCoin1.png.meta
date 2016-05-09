@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: a86f25c99ee57a444b6a2ed842cd75a4
+timeCreated: 1460701137
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dogeCoin1_0
+    21300002: dogeCoin1_1
+    21300004: dogeCoin1_2
+    21300006: dogeCoin1_3
+    21300008: dogeCoin1_4
+    21300010: dogeCoin1_5
+    21300012: dogeCoin1_6
+    21300014: dogeCoin1_7
+    21300016: dogeCoin1_8
+    21300018: dogeCoin1_9
+    21300020: dogeCoin1_10
+    21300022: dogeCoin1_11
+    21300024: dogeCoin1_12
+    21300026: dogeCoin1_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dogeCoin1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 39.73999}
+        - {x: -39.5, y: 30.73999}
+        - {x: -39.5, y: -35.26001}
+        - {x: -35.5, y: -39.26001}
+        - {x: 30.5, y: -39.26001}
+        - {x: 39.5, y: -28.26001}
+        - {x: 39.5, y: 34.73999}
+        - {x: 27.5, y: 39.73999}
+    - name: dogeCoin1_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 666
+        width: 107
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.279999, y: 39.73999}
+        - {x: -34.28, y: 35.73999}
+        - {x: -34.28, y: -31.26001}
+        - {x: -31.279999, y: -39.26001}
+        - {x: 24.720001, y: -39.26001}
+        - {x: 35.72, y: -36.26001}
+        - {x: 35.72, y: 30.73999}
+        - {x: 30.720001, y: 39.73999}
+    - name: dogeCoin1_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 666
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.020004, y: 39.73999}
+        - {x: -25.020004, y: 32.73999}
+        - {x: -25.020004, y: -36.26001}
+        - {x: -22.020004, y: -39.26001}
+        - {x: 22.979996, y: -39.26001}
+        - {x: 25.979996, y: -26.26001}
+        - {x: 25.979996, y: 31.73999}
+        - {x: 17.979996, y: 39.73999}
+    - name: dogeCoin1_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 667
+        width: 27
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dogeCoin1_4
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 666
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.540009, y: 39.73999}
+        - {x: -24.540009, y: 30.73999}
+        - {x: -24.540009, y: -26.26001}
+        - {x: -16.540009, y: -39.26001}
+        - {x: 25.459991, y: -39.26001}
+        - {x: 26.459991, y: -36.26001}
+        - {x: 26.459991, y: 34.73999}
+        - {x: 20.459991, y: 39.73999}
+    - name: dogeCoin1_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 666
+        width: 107
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.200012, y: 39.73999}
+        - {x: -34.200012, y: 31.73999}
+        - {x: -34.200012, y: -32.26001}
+        - {x: -28.200012, y: -38.26001}
+        - {x: -22.200012, y: -39.26001}
+        - {x: 32.799988, y: -39.26001}
+        - {x: 35.799988, y: -38.26001}
+        - {x: 35.799988, y: 39.73999}
+    - name: dogeCoin1_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 666
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.580017, y: 39.73999}
+        - {x: -38.580017, y: 23.73999}
+        - {x: -38.580017, y: -22.26001}
+        - {x: -36.580017, y: -28.26001}
+        - {x: -21.580017, y: -39.26001}
+        - {x: 37.419983, y: -39.26001}
+        - {x: 40.419983, y: -27.26001}
+        - {x: 40.419983, y: 31.73999}
+        - {x: 25.419983, y: 39.73999}
+    - name: dogeCoin1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 39.5}
+        - {x: -39.5, y: -25.5}
+        - {x: -33.5, y: -39.5}
+        - {x: 24.5, y: -39.5}
+        - {x: 39.5, y: -24.5}
+        - {x: 39.5, y: 38.5}
+        - {x: 33.5, y: 39.5}
+    - name: dogeCoin1_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 107
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.279999, y: 39.5}
+        - {x: -34.28, y: 34.5}
+        - {x: -34.28, y: -22.5}
+        - {x: -25.279999, y: -39.5}
+        - {x: 30.720001, y: -39.5}
+        - {x: 35.72, y: -24.5}
+        - {x: 35.72, y: 35.5}
+        - {x: 32.72, y: 39.5}
+    - name: dogeCoin1_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 78
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.020004, y: 26.5}
+        - {x: -25.020004, y: 17.5}
+        - {x: -25.020004, y: -48.5}
+        - {x: -23.020004, y: -54.5}
+        - {x: 24.979996, y: -54.5}
+        - {x: 25.979996, y: -46.5}
+        - {x: 25.979996, y: 15.5}
+        - {x: 14.979996, y: 26.5}
+      - - {x: -3.0200043, y: 54.5}
+        - {x: -5.0200043, y: 52.5}
+        - {x: -4.0200043, y: 49.5}
+        - {x: 1.9799957, y: 49.5}
+        - {x: 3.9799957, y: 50.5}
+        - {x: 3.9799957, y: 54.5}
+    - name: dogeCoin1_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 26
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: dogeCoin1_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.540009, y: 39.5}
+        - {x: -24.540009, y: -37.5}
+        - {x: -20.540009, y: -39.5}
+        - {x: 23.459991, y: -39.5}
+        - {x: 26.459991, y: -26.5}
+        - {x: 26.459991, y: 36.5}
+        - {x: 17.459991, y: 39.5}
+    - name: dogeCoin1_12
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 107
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.200012, y: 39.5}
+        - {x: -34.200012, y: 28.5}
+        - {x: -34.200012, y: -27.5}
+        - {x: -28.200012, y: -39.5}
+        - {x: 22.799988, y: -39.5}
+        - {x: 35.799988, y: -21.5}
+        - {x: 35.799988, y: 25.5}
+        - {x: 20.799988, y: 39.5}
+    - name: dogeCoin1_13
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.580017, y: 39.5}
+        - {x: -38.580017, y: 22.5}
+        - {x: -38.580017, y: -25.5}
+        - {x: -30.580017, y: -39.5}
+        - {x: 29.419983, y: -39.5}
+        - {x: 40.419983, y: -33.5}
+        - {x: 40.419983, y: 25.5}
+        - {x: 22.419983, y: 39.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
